@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 # Output
 
-<img src="output.png" height="400" alt="Demo"/> 
+<img src="output.jpeg" height="400" alt="Demo"/> 
 
 A few resources to get you started if this is your first Flutter project:
 
