@@ -1,6 +1,7 @@
 # Find Movie - Flutter MVVM
-
-A new Flutter project.
+This project using API from themoviedb.org
+*Important*
+Change your apikey in lib/model/services/base_service.dart
 
 ## Getting Started
 
